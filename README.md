@@ -1,2 +1,2 @@
 # FractalSlowDownTransformation
-Farmdiagnosis
+A new algorithm.
