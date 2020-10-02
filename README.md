@@ -1,2 +1,2 @@
 # FractalSlowDownTransformation
-A new algorithm.
+A novel algorithm.
