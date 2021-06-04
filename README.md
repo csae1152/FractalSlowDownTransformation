@@ -1,5 +1,5 @@
 # FractalSlowDownTransformation
-A novel algorithm for fractal dimension reduction.
+A novel algorithm for fractal dimension reduction in the context of backpropagation.
 
 https://farmdiagnosis.herokuapp.com/ is implemted here.
 
