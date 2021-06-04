@@ -1,7 +1,7 @@
 # FractalSlowDownTransformation
 A novel algorithm for fractal dimension reduction in the context of backpropagation.
 
-https://farmdiagnosis.herokuapp.com/ is implemted here.
+https://farmdiagnosis.herokuapp.com/ you can see an online demo of the results here.
 
 It has been demonstrated that higher order recurrent neu-
 ral networks exhibit an underlying fractal attractor as an
