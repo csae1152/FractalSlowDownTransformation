@@ -6,7 +6,7 @@ https://farmdiagnosis.herokuapp.com/ you can see an online demo of the results h
 It has been demonstrated that higher order recurrent neu-
 ral networks exhibit an underlying fractal attractor as an
 artifact of their dynamics. These fractal attractors offer a very effcent mechanism to encode visual memories in a neu-
-ral substrate, since even a simple 9 weight network can
+ral substrate, since even a simple weight network can
 encode a very large set of different images.
 The main problem in this memory model, which so far has
 remained unaddressed, is how to train the networks to learn
