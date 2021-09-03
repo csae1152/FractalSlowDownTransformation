@@ -10,7 +10,7 @@ ral substrate, since even a simple weight network can
 encode a very large set of different images.
 The main problem in this memory model, which so far has
 remained unaddressed, is how to train the networks to learn
-these different attractors. Following other neural training
+these different attractors. Following other deep neural training
 methods this paper proposes a Gradient Descent method
 to learn the attractors. The method is based on an error
 function which examines the efects of the current network
